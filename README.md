@@ -20,6 +20,10 @@
 - [markdown语法备忘](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [jekyll themes](http://jekyllthemes.org/)
 
+#### 依赖的项目
+
+    https://github.com/yankaili2006/hexo-theme-pure
+    
 
 #### hexo 发布到 github pages
 
@@ -44,3 +48,4 @@ You can configure this plugin in _config.yml.
 
     hexo clean
     hexo deploy
+    
